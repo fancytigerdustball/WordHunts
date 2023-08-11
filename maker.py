@@ -45,12 +45,15 @@ for word in words:
             plusx = random.choice(DIRECTS)
             plusy = random.choice(DIRECTS)
             # Check if word is OK
-            if x + (plusx * length):
+            if x + (plusx * length) > width:
                 continue
-            if y + (plusy * length):
+            if x + (plusx * length) < 0:
+                continue
+            if y + (plusy * length) > height:
                 continue
             if plusx == 0 and plusy == 0:
                 continue
+                
             break
 
         # Draw word on matrix
