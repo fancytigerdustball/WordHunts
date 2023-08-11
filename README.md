@@ -22,6 +22,8 @@ Sometimes it will not tell you where a word is until
 
 you spell the word backwards. I don't know why.
 
+<img src="screenshots/ss1.png"/>
+
 ## maker.py
 
 Run this file to create word hunts.
@@ -35,3 +37,5 @@ words, click Enter again. After giving it the width
 and height of the puzzle, it will give you a full
 
 word hunt.
+
+<img src="screenshots/ss2.png"/>
