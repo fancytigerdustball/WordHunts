@@ -56,7 +56,7 @@ for word in words:
         # Draw word on matrix
         for i in range(length):
             letter = word[i]
-            if matrix[y][x] and matrix[y][x] != letter:
+            if matrix[y][x]:
                 continue
             matrix[y][x] = letter
             x += plusx
@@ -71,3 +71,6 @@ for yi, y in enumerate(matrix):
 
 # Print matrix
 print_matrix(matrix)
+
+while True:
+    pass
