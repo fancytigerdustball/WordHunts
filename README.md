@@ -18,6 +18,10 @@ you the position of the first letter. (You can take it
 
 from there)
 
+Sometimes it will not tell you where a word is until
+
+you spell the word backwards. I don't know why.
+
 ## maker.py
 
 Run this file to create word hunts.
