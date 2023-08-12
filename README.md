@@ -34,8 +34,8 @@ in your word hunt. Once you have entered all your
 
 words, click Enter again. After giving it the width
 
-and height of the puzzle, it will give you a full
+and height of the puzzle, it should give you a full
 
-word hunt.
+word hunt. (But it doesn't very often 😭)
 
 <img src="screenshots/ss2.png"/>
