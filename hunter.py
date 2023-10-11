@@ -1,4 +1,4 @@
-''' Module that solves crossword puzzles
+''' Module that solves word hunt puzzles
 
 It solves by looping through each cell.
 If the cell is the first letter of the word checking for,
